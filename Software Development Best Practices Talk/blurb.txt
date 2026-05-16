@@ -1,0 +1,5 @@
+Why Software Goes Bad & How To Fix It
+
+Your first release is a success—on time and on budget. Your second release is 50% over budget, and now your third release is stuck in development hell. How did you get into this mess? How do you get out of it, and how do you prevent it from happening again?
+In this talk, we’ll explore the benefits of engineering best practices such as Test-Driven Development (TDD), integration testing, Clean Code, and meaningful naming, and show how you can use them to deliver software successfully and repeatedly, time after time.
+We’ll see how these practices reduce bugs, speed up change, improve team collaboration, and lower long-term costs. Whether you’re writing new code or maintaining legacy systems, this session will show how disciplined craftsmanship turns short-term effort into long-term velocity and confidence.
