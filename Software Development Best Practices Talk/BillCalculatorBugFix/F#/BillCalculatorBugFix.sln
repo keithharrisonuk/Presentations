@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Version1", "Version1\Version1.fsproj", "{914BAD1E-3692-49FA-8974-26DFD7415574}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Version2", "Version2\Version2.fsproj", "{56424E55-2FE3-4EEC-B9E6-BA20D3963785}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Version3", "Version3\Version3.fsproj", "{625D3113-37E4-4D45-A1BA-F67082FFDBF5}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Version4", "Version4\Version4.fsproj", "{26614860-C648-4F31-90BA-49244EDE380C}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://keith818.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Version1\\Version1.fsproj
+		SccProjectName1 = Version1
+		SccLocalPath1 = Version1
+		SccProjectUniqueName2 = Version2\\Version2.fsproj
+		SccProjectName2 = Version2
+		SccLocalPath2 = Version2
+		SccProjectUniqueName3 = Version3\\Version3.fsproj
+		SccProjectName3 = Version3
+		SccLocalPath3 = Version3
+		SccProjectUniqueName4 = Version4\\Version4.fsproj
+		SccProjectName4 = Version4
+		SccLocalPath4 = Version4
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{914BAD1E-3692-49FA-8974-26DFD7415574}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{914BAD1E-3692-49FA-8974-26DFD7415574}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{914BAD1E-3692-49FA-8974-26DFD7415574}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{914BAD1E-3692-49FA-8974-26DFD7415574}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56424E55-2FE3-4EEC-B9E6-BA20D3963785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56424E55-2FE3-4EEC-B9E6-BA20D3963785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56424E55-2FE3-4EEC-B9E6-BA20D3963785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56424E55-2FE3-4EEC-B9E6-BA20D3963785}.Release|Any CPU.Build.0 = Release|Any CPU
+		{625D3113-37E4-4D45-A1BA-F67082FFDBF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{625D3113-37E4-4D45-A1BA-F67082FFDBF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{625D3113-37E4-4D45-A1BA-F67082FFDBF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{625D3113-37E4-4D45-A1BA-F67082FFDBF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26614860-C648-4F31-90BA-49244EDE380C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26614860-C648-4F31-90BA-49244EDE380C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26614860-C648-4F31-90BA-49244EDE380C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26614860-C648-4F31-90BA-49244EDE380C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Engine>
+  <Actions>
+    <Type>AddPercentage</Type>
+    <Pecentage>10</Pecentage>
+    <Actions>
+      <Type>SumScalers</Type>
+      <Actions>
+        <Action>
+          <Type>SumListToScaler</Type>
+          <Data>Food</Data>
+        </Action>
+      </Actions>
+    </Actions>
+  </Actions>
+</Engine>
